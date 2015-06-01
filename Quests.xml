@@ -358,6 +358,20 @@
     <TR-Detail>Poseer UNICAMENTE a Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月) y un DD adicional  en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>154</ID>
+    <JP-Name>海上突入部隊を編成せよ！</JP-Name>
+    <TR-Name>Form the surface attack fleet!</TR-Name>
+    <JP-Detail>戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in the fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>155</ID>
+    <JP-Name>新編「第六駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>Form the new Destroyer Division 6!</TR-Name>
+    <JP-Detail>「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Akatsuki kai2 as flagship, and Hibiki, Ikazuchi, Inazuma in the fleet.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Incursión Diaria #1</TR-Name>
@@ -827,6 +841,20 @@
     <TR-Detail>Desplegar una flota con Maya (摩耶) Kai o Kai2, 1 CL, 2 DD y 2 barcos adicionales al Mundo 2-3. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>276</ID>
+    <JP-Name>海上突入部隊、進発せよ！</JP-Name>
+    <TR-Name>Sortie the surface attack fleet!</TR-Name>
+    <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せ</JP-Detail>
+    <TR-Detail>Deploy a fleet with Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma to world 5-1 and obtain an S victory at the boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>277</ID>
+    <JP-Name>「第六駆逐隊」対潜哨戒を徹底なのです！</JP-Name>
+    <TR-Name>Complete Destroyer Division 6 Anti-Submarine Mission!</TR-Name>
+    <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
+    <TR-Detail>Deploy a fleet with Akatsuki kai2 as flagship, and Hibiki, Ikazuchi, Inazuma to world 1-5 and obtain an A victory or better at the boss.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>Primer Ejercicio!</TR-Name>
@@ -860,6 +888,13 @@
     <TR-Name>En Preparacion para el Amor (Parte 2)</TR-Name>
     <JP-Detail>本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！</JP-Detail>
     <TR-Detail>Demuestra tu amor logrando 2 victorias en el modo practica.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>308</ID>
+    <JP-Name>演習を強化、艦隊の練度向上に努めよ！</JP-Name>
+    <TR-Name>Strengthen the practice battles, increase the fleet's experience!</TR-Name>
+    <JP-Detail>艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！</JP-Detail>
+    <TR-Detail>Get 4 victories in practice mode within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
@@ -973,6 +1008,20 @@
     <TR-Name>Desplegar la Decoy Task Force</TR-Name>
     <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
     <TR-Detail>Completa la Expedición  15 (囮機動部隊支援作戦).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>418</ID>
+    <JP-Name>観艦式予行を実施せよ！</JP-Name>
+    <TR-Name>Implement the Naval Review rehearsal!</TR-Name>
+    <JP-Detail>観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！</JP-Detail>
+    <TR-Detail>Complete expedition 7 twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>419</ID>
+    <JP-Name>観艦式を敢行せよ！</JP-Name>
+    <TR-Name>Do the Naval Review!</TR-Name>
+    <JP-Detail>練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！</JP-Detail>
+    <TR-Detail>Complete expedition 8 once.</TR-Detail>
   </Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
