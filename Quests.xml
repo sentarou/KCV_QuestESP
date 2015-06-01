@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.26">
+<Quests Version="1.20.2ES">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -358,6 +358,13 @@
     <TR-Detail>Poseer UNICAMENTE a Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月) y un DD adicional  en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>152</ID>
+    <JP-Name>「三川艦隊」を新編、突入準備せよ！</JP-Name>
+    <TR-Name>La renovada flota Mikawa!</TR-Name>
+    <JP-Detail>第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Tener a Choukai Kai2 como Flagship y 5 barcos adicionales, que pueden ser entre Aoba, Kinugasa, Kako, Furutaka, Yuubari o Tenryuu en tu flota principal.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>154</ID>
     <JP-Name>海上突入部隊を編成せよ！</JP-Name>
     <TR-Name>Forma la flota de ataque de superficie!</TR-Name>
@@ -705,7 +712,7 @@
     <JP-Name>「第六〇一航空隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 601 Air Group</TR-Name>
     <JP-Detail>雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con Unryuu Kai (雲龍改) como Flaghip al Mundo 5-2 y Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Tener a Unryuu Kai (雲龍改) como Flagship. Puedes añadir 5 barcos adicionales. Desplegar una incursión al mundo 5-2  y lograr una victoria rango-S en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>254</ID>
@@ -841,6 +848,27 @@
     <TR-Detail>Desplegar una flota con Maya (摩耶) Kai o Kai2, 1 CL, 2 DD y 2 barcos adicionales al Mundo 2-3. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>273</ID>
+    <JP-Name>新編「三川艦隊」ソロモン方面へ！</JP-Name>
+    <TR-Name>La flota Mikawa en las Islas Salomón!</TR-Name>
+    <JP-Detail>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Tener a Choukai Kai2 como Flagship y 5 barcos adicionales, que pueden ser entre Aoba, Kinugasa, Kako, Furutaka, Yuubari o Tenryuu. Desplegarlas al mundo 5-1 y obtener un rango-S en el nodo del Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>274</ID>
+    <JP-Name>「第六駆逐隊」対潜哨戒なのです！</JP-Name>
+    <TR-Name>6ª División de destructores, La patrulla Anti-Submarinos nanodesu!</TR-Name>
+    <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
+    <TR-Detail>Desplegar una flota UNICAMENTE con Akatsuki, Hibiki, Inazuma, e Ikazuchi al Mundo 1-5 y obtener un rango-C o superior en el nodo del Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>275</ID>
+    <JP-Name>抜錨！「第十八戦隊」</JP-Name>
+    <TR-Name>Desplegar la División de cruceros #18!</TR-Name>
+    <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Desplegar una flota con Tenryuu, Tatsuta, y dos o más barcos adicionales al Mundo 2-3 y obtener un rango-S en el nodo del Boss.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>276</ID>
     <JP-Name>海上突入部隊、進発せよ！</JP-Name>
     <TR-Name>Desplegar al ataque a la flota de superficie!</TR-Name>
@@ -857,7 +885,7 @@
   <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
-    <TR-Name>Primer Ejercicio!</TR-Name>
+    <TR-Name>Primer Ejercicio de practica PVP!</TR-Name>
     <JP-Detail>他の提督(プレイヤー)の艦隊と「演習」を行おう！</JP-Detail>
     <TR-Detail>Desafía a otra flota en el modo practica.</TR-Detail>
   </Quest>
