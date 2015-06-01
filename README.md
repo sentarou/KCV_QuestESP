@@ -11,4 +11,10 @@ Es necesario disponer de cualquier version del Kancolle Viewer y seguir los sigu
 
 ► sustituir lo que se encuentra entre las etiqueas <value> por la siguiente url: https://raw.githubusercontent.com/sentarou/KCV_QuestESP/master/Version.xml
 
-► guardar y ejecutar el KCV
+► Finalmente deberia quedar de la siguiente forma:
+![Image de sentarou](http://i.imgur.com/uLiJt5R.jpg)
+
+► Guardar y ejecutar el KCV
+
+**NOTAS**: 
+Este procedimiento se debe repetir cada vez que descarguen una version nueva de KCV 
