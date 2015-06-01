@@ -21,6 +21,16 @@ Es necesario disponer de cualquier version del Kancolle Viewer y seguir los sigu
 **NOTAS**: 
 Este procedimiento se debe repetir cada vez que descarguen una version nueva del KCV 
 
+#### Actualización Manual
+Si por alguna razón su KCV no actualiza automáticamente las traducciones, prueba las opciones de “Download Translations” y “Force Download” nativas del KCV, si el problema se mantiene puedes realizar la actualización de la traducción al español de manera manual.
+El procedimiento sería el siguiente:
+
+► Descargar la ultima version del Archivo .xml de Quest desde el siguiente enlace → [DESCARGAS](https://github.com/sentarou/KCV_QuestESP/releases)
+
+► Guardar y Reemplazar el archivo descargado dentro de la carpeta **Translations** de su KCV
+
+► Ejecutar KanColleViewer.exe
+
 #### Colaboradores Principales:
 * @12braian
 * @moonkamek
