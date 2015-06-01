@@ -18,3 +18,8 @@ Es necesario disponer de cualquier version del Kancolle Viewer y seguir los sigu
 
 **NOTAS**: 
 Este procedimiento se debe repetir cada vez que descarguen una version nueva de KCV 
+
+#### Colaboradores Principales:
+* @12braian
+* @moonkamek
+* @Nortwenko 
