@@ -19,7 +19,7 @@
     <JP-Name>「水雷戦隊」を編成せよ！</JP-Name>
     <TR-Name>Formar un escuadrón de torpederos!</TR-Name>
     <JP-Detail>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Poseer un CL como Flagship y 5 DD´s en tu flota principal.</TR-Detail>
+    <TR-Detail>Poseer un CL como Flagship y 5 DD en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
     <ID>104</ID>
@@ -47,7 +47,7 @@
     <JP-Name>「空母機動部隊」を編成せよ！</JP-Name>
     <TR-Name>Form a Carrier Task Force!</TR-Name>
     <JP-Detail>空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Poseer un CV o CVL como flagship y 3 DD´s en tu flota principal</TR-Detail>
+    <TR-Detail>Poseer un CV o CVL como flagship y 3 DD en tu flota principal</TR-Detail>
   </Quest>
   <Quest>
     <ID>108</ID>
@@ -117,7 +117,7 @@
     <JP-Name>第２艦隊で空母機動部隊を編成せよ！</JP-Name>
     <TR-Name>Formar una Carrier Task Force en la segunda flota!</TR-Name>
     <JP-Detail>第２艦隊に空母を配備して、空母機動部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Poseer un CV o CVL y 3 DD´s en tu segunda flota.</TR-Detail>
+    <TR-Detail>Poseer un CV o CVL y 3 DD en tu segunda flota.</TR-Detail>
   </Quest>
   <Quest>
     <ID>118</ID>
@@ -334,7 +334,7 @@
     <JP-Name>軽快な「水上反撃部隊」を編成せよ！</JP-Name>
     <TR-Name>Organizar el escuadrón de contra-ataque</TR-Name>
     <JP-Detail>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Poseer a Kasumi (霞) como la Flagship, Ashigara (足柄), 1 CL y 3 DDs  en tu flota principal.</TR-Detail>
+    <TR-Detail>Poseer a Kasumi (霞) como la Flagship, Ashigara (足柄), 1 CL y 3 DD  en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
     <ID>149</ID>
@@ -362,7 +362,7 @@
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Incursión Diaria #1</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Destruir una flota enemiga.</TR-Detail>
+    <TR-Detail>Derrota una flota enemiga.</TR-Detail>
   </Quest>
   <Quest>
     <ID>202</ID>
@@ -390,14 +390,14 @@
     <JP-Name>接近する「敵前衛艦隊」を迎撃せよ！</JP-Name>
     <TR-Name>Intercept Approaching Enemy Vanguard Fleet!</TR-Name>
     <JP-Detail>南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una sortie al Mundo 1-2, destruir al Boss y completar el mapa.</TR-Detail>
+    <TR-Detail>Desplegar una sortie al Mundo 1-2, derrota al Boss y completar el mapa.</TR-Detail>
   </Quest>
   <Quest>
     <ID>206</ID>
     <JP-Name>「水雷戦隊」で出撃せよ！</JP-Name>
     <TR-Name>Sortie the Torpedo Squadron!</TR-Name>
     <JP-Detail>軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con un CL como Flagship y 3 DDs como escoltas.</TR-Detail>
+    <TR-Detail>Desplegar una flota con un CL como Flagship y 3 DD como escoltas.</TR-Detail>
   </Quest>
   <Quest>
     <ID>207</ID>
@@ -425,7 +425,7 @@
     <JP-Name>敵艦隊を10回邀撃せよ！</JP-Name>
     <TR-Name>Incursión Diaria #3</TR-Name>
     <JP-Detail>艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！</JP-Detail>
-    <TR-Detail>Destruye 10 Flotas Enemigas.</TR-Detail>
+    <TR-Detail>Derrota 10 Flotas Enemigas.</TR-Detail>
   </Quest>
   <Quest>
     <ID>211</ID>
@@ -453,7 +453,7 @@
     <JP-Name>あ号作戦</JP-Name>
     <TR-Name>Incursión Semanal #1</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
-    <TR-Detail>Desplegar tu flota 36 veces, encuentra 24 Bosses, Destruye 12 Bosses y obtén 6 Victorias S-Rank.</TR-Detail>
+    <TR-Detail>Desplegar tu flota 36 veces, encuentra 24 Bosses, Derrota 12 Bosses y obtén 6 Victorias S-Rank.</TR-Detail>
   </Quest>
   <Quest>
     <ID>215</ID>
@@ -467,7 +467,7 @@
     <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
     <TR-Name>Incursión Diaria #2</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Destruye el Flagship de una flota Enemiga.</TR-Detail>
+    <TR-Detail>Derrota el Flagship de una flota Enemiga.</TR-Detail>
   </Quest>
   <Quest>
     <ID>217</ID>
@@ -523,14 +523,14 @@
     <JP-Name>「西村艦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Nishimura Fleet!</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Fusou, Yamashiro, Mogami, Shigure y 2 barcos adicionales.Logra la victoria en el Boss del Mundo 2-3.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Fusou, Yamashiro, Mogami, Shigure y 2 barcos adicionales. Logra la victoria en el Boss del Mundo 2-3.</TR-Detail>
   </Quest>
   <Quest>
     <ID>225</ID>
     <JP-Name>「第五航空戦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Carrier Division 5!</TR-Name>
     <JP-Detail>「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Shoukaku, Zuikaku y 4 barcos adicionales.Logra la victoria en el Boss del Mundo 3-1.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Shoukaku, Zuikaku y 4 barcos adicionales. Logra la victoria en el Boss del Mundo 3-1.</TR-Detail>
   </Quest>
   <Quest>
     <ID>226</ID>
@@ -544,7 +544,7 @@
     <JP-Name>新「三川艦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the New Mikawa Fleet!</TR-Name>
     <JP-Detail>完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Choukai, Aoba, Kinugasa, Kako, Furutaka y Tenryuu.Logra la victoria en el Boss del Mundo 2-3.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Choukai, Aoba, Kinugasa, Kako, Furutaka y Tenryuu. Logra la victoria en el Boss del Mundo 2-3.</TR-Detail>
   </Quest>
   <Quest>
     <ID>228</ID>
@@ -558,7 +558,7 @@
     <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
     <TR-Name>Incursión Semanal #6</TR-Name>
     <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Destruir 12 bosses en el Mundo 4.</TR-Detail>
+    <TR-Detail>Derrotar 12 bosses en el Mundo 4.</TR-Detail>
   </Quest>
   <Quest>
     <ID>230</ID>
@@ -572,49 +572,49 @@
     <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie a Submarine Fleet!</TR-Name>
     <JP-Detail>伊号潜水艦2隻からなる潜水艦隊でオリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con 2 SS y 4 Barcos adicionales.Logra la victoria en el Boss del Mundo 2-3.</TR-Detail>
+    <TR-Detail>Desplegar una flota con 2 SS y 4 Barcos adicionales. Logra la victoria en el Boss del Mundo 2-3.</TR-Detail>
   </Quest>
   <Quest>
     <ID>232</ID>
     <JP-Name>「航空水上打撃艦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie a Naval Aviation Strike Fleet!</TR-Name>
     <JP-Detail>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊でカレー洋の制海権を握れ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con 2 BBV, 2 CAV y 2 Barcos adicionales.Logra la victoria en el Boss del Mundo 4-2.</TR-Detail>
+    <TR-Detail>Desplegar una flota con 2 BBV, 2 CAV y 2 Barcos adicionales. Logra la victoria en el Boss del Mundo 4-2.</TR-Detail>
   </Quest>
   <Quest>
     <ID>233</ID>
     <JP-Name>「第六戦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Cruiser Division 6!</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Furutaka, Kako, Kinugasa, Aoba y 2 Barcos adicionales.Logra una victoria S-Rank en el Boss del Mundo 2-3.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Furutaka, Kako, Kinugasa, Aoba y 2 Barcos adicionales. Logra una victoria S-Rank en el Boss del Mundo 2-3.</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
     <JP-Name>「第八駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Destroyer Division 8!</TR-Name>
     <JP-Detail>編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Asashio, Michishio, Ooshio, Arashio y 2 Barcos adicionales.Logra una victoria S-Rank en el Boss del Mundo 2-3.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Asashio, Michishio, Ooshio, Arashio y 2 Barcos adicionales. Logra una victoria S-Rank en el Boss del Mundo 2-3.</TR-Detail>
   </Quest>
   <Quest>
     <ID>240</ID>
     <JP-Name>「第十八駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Destroyer Division 18!</TR-Name>
     <JP-Detail>編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Kasumi, Arare, Kagerou, Shiranui y 2 Barcos adicionales.Logra una victoria S-Rank en el Boss del Mundo 3-1.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Kasumi, Arare, Kagerou, Shiranui y 2 Barcos adicionales. Logra una victoria S-Rank en el Boss del Mundo 3-1.</TR-Detail>
   </Quest>
   <Quest>
     <ID>241</ID>
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
     <TR-Name>Incursión Semanal #7</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Destruye 5 bosses en el Mundo 3-3, 3-4 o 3-5.</TR-Detail>
+    <TR-Detail>Derrota 5 bosses en el Mundo 3-3, 3-4 o 3-5.</TR-Detail>
   </Quest>
   <Quest>
     <ID>242</ID>
     <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
     <TR-Name>Incursión Semanal #8</TR-Name>
     <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Destruye un boss en el Mundo 4-4.</TR-Detail>
+    <TR-Detail>Derrota un boss en el Mundo 4-4.</TR-Detail>
   </Quest>
   <Quest>
     <ID>243</ID>
@@ -635,77 +635,77 @@
     <JP-Name>式の準備！(最終)</JP-Name>
     <TR-Name>En Preparacion Para El Amor! (Final)</TR-Name>
     <JP-Detail>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！</JP-Detail>
-    <TR-Detail>Desplegar una flota con un Flagship Level Alto (Lv. 90~99) al Mundo 2-3 y logra una Victoria S-Rank en el Nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una flota con un Flagship nivel Alto (Lv. 90~99) al Mundo 2-3 y logra una Victoria S-Rank en el Nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>246</ID>
     <JP-Name>二人でする初めての任務！</JP-Name>
     <TR-Name>Tu Primera Mision Juntos!</TR-Name>
     <JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota al Mundo 4-3 con tu esposa Lv.100 o mas como Flagship y logra una victoria S-Rank en el Boss.</TR-Detail>
+    <TR-Detail>Desplegar una flota al Mundo 4-3 con tu esposa Lv.100 o mas, como Flagship y logra una victoria S-Rank en el Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>247</ID>
     <JP-Name>「航空戦艦」抜錨せよ！</JP-Name>
     <TR-Name>Sortie an aviation battleship fleet!</TR-Name>
     <JP-Detail>航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！</JP-Detail>
-    <TR-Detail>Asigna 2 BBV a tu flota principal y logra la victoria en el boss del mundo World 4-4.</TR-Detail>
+    <TR-Detail>Asigna 2 BBV a tu flota principal y logra la victoria en el boss del Mundo 4-4.</TR-Detail>
   </Quest>
   <Quest>
     <ID>248</ID>
     <JP-Name>「第三十駆逐隊」対潜哨戒！</JP-Name>
     <TR-Name>30th Destroyer Fleet's Anti-Submarine Patrol</TR-Name>
     <JP-Detail>「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) y Mochizuki (望月) al Mundo 1-5 y combate al Boss, Logra al menos un C-Rank.</TR-Detail>
+    <TR-Detail>Desplegar a Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) y Mochizuki (望月) al Mundo 1-5 y combate al Boss. Logra al menos un C-Rank.</TR-Detail>
   </Quest>
   <Quest>
     <ID>249</ID>
     <JP-Name>「第五戦隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 5th Fleet</TR-Name>
     <JP-Detail>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a (妙高), Nachi (那智) and Haguro (羽黒) al Mundo 2-5.Puedes añadir otros 3 Barcos. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a (妙高), Nachi (那智) and Haguro (羽黒) al Mundo 2-5. Puedes añadir otros 3 Barcos. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>250</ID>
     <JP-Name>新編「第二航空戦隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 2nd Carrier Division</TR-Name>
     <JP-Detail>新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Hiryuu Kai Ni (飛龍改二) como la Flaghip, Souryuu (蒼龍) y 2 destructores al Mundo 5-2.Puedes añadir otros 2 Barcos. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Hiryuu Kai Ni (飛龍改二) como Flaghip, Souryuu (蒼龍) y 2 destructores al Mundo 5-2. Puedes añadir otros 2 Barcos. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>251</ID>
     <JP-Name>精鋭「第二航空戦隊」抜錨せよ！</JP-Name>
     <TR-Name>Deploy the Elite 2nd Carrier Division</TR-Name>
     <JP-Detail>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Souryuu Kai Ni (蒼龍改二) como la Flaghip, Hiryuu Kai Ni (飛龍改二) y 2 destructores al Mundo 4-3.Puedes añadir otros 2 Barcos.Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Souryuu Kai Ni (蒼龍改二) como Flaghip, Hiryuu Kai Ni (飛龍改二) y 2 destructores al Mundo 4-3. Puedes añadir otros 2 Barcos. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>252</ID>
     <JP-Name>戦艦「榛名」出撃せよ！</JP-Name>
     <TR-Name>Deploy a Haruna-led Fleet</TR-Name>
     <JP-Detail>第二次改装実施した「榛名」を基幹とした艦隊で「南方海域」へ進出、敵艦隊主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con Haruna Kai Ni (榛名改二) Como la Flaghip y otros 5 barcos adicionales al Mundo 5-1 y Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una Flota con Haruna Kai Ni (榛名改二) como Flaghip y otros 5 barcos adicionales al Mundo 5-1. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>253</ID>
     <JP-Name>「第六〇一航空隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 601 Air Group</TR-Name>
     <JP-Detail>雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con Unryuu Kai (雲龍改) Como la Flaghip al Mundo 5-2 y Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una Flota con Unryuu Kai (雲龍改) como Flaghip al Mundo 5-2 y Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>254</ID>
     <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
     <TR-Name>Deploy a Light Carrier Squadron</TR-Name>
     <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con 1 o 2 CVL, 1 CL y 3 o 4 Destructores al Mundo 2-1 y Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una Flota con 1 o 2 CVL, 1 CL y 3 o 4 Destructores al Mundo 2-1. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>255</ID>
     <JP-Name>「水雷戦隊」バシー島沖緊急展開</JP-Name>
     <TR-Name>Deploy a Torpedo Squadron to Bashi Islands</TR-Name>
     <JP-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con 1 o 2 CL (uno de ellos como Flagship) y 4-5 destructores al Mundo 2-2.Logra una Victoria en el nodo del boss hundiendo al Flagship enemigo.</TR-Detail>
+    <TR-Detail>Desplegar una Flota con 1 o 2 CL (uno de ellos como Flagship) y 4-5 destructores al Mundo 2-2. Logra una Victoria en el nodo del boss hundiendo al Flagship enemigo.</TR-Detail>
   </Quest>
   <Quest>
     <ID>256</ID>
@@ -719,28 +719,28 @@
     <JP-Name>「水雷戦隊」南西へ！</JP-Name>
     <TR-Name>Deploy a Torpedo Squadron</TR-Name>
     <JP-Detail>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con 3 CL (uno de ellos como Flagship) y 4-5 destructores al Mundo 1-4 y Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una Flota con 3 CL (uno de ellos como Flagship) y 4-5 destructores al Mundo 1-4. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>258</ID>
     <JP-Name>「第二戦隊」抜錨！</JP-Name>
     <TR-Name>Sortie the 2nd Squadron</TR-Name>
     <JP-Detail>「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Nagato (長門), Mutsu (陸奥), Fusou (扶桑), Yamashiro (山城) y otros 2 barcos adicionales al mundo 4-2.Logra una Victoria S-Rank en el nodo del Boss 2 veces.</TR-Detail>
+    <TR-Detail>Desplegar a Nagato (長門), Mutsu (陸奥), Fusou (扶桑), Yamashiro (山城) y otros 2 barcos adicionales al mundo 4-2. Logra una Victoria S-Rank en el nodo del Boss 2 veces.</TR-Detail>
   </Quest>
   <Quest>
     <ID>259</ID>
     <JP-Name>「水上打撃部隊」南方へ！</JP-Name>
     <TR-Name>Deploy a Battleship Squadron</TR-Name>
     <JP-Detail>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar 3 BB (no FBB), un CL y otros 2 barcos adicionales al Mundo 5-1 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar 3 BB (no FBB), un CL y otros 2 barcos adicionales al Mundo 5-1. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>260</ID>
     <JP-Name>「戦艦部隊」北方海域に突入せよ！</JP-Name>
     <TR-Name>Deploy the Battleship Squadron in the Northern Waters</TR-Name>
     <JP-Detail>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar 2 BB, un CVL y otros 3 barcos adicionales al Mundo 3-5 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar 2 BB, un CVL y otros 3 barcos adicionales al Mundo 3-5. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>261</ID>
@@ -754,21 +754,21 @@
     <JP-Name>「西村艦隊」南方海域へ進出せよ！</JP-Name>
     <TR-Name>Deploy the Nishimura Fleet in the Southern Waters</TR-Name>
     <JP-Detail>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) y Michishio (満潮) (puedes añadir otros barcos) al Mundo 5-1 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) y Michishio (満潮) (puedes añadir otros barcos) al Mundo 5-1. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>263</ID>
     <JP-Name>「第六戦隊」南西海域へ出撃せよ！</JP-Name>
     <TR-Name>Deploy the Sixth Squadron to the Southwestern Waters</TR-Name>
     <JP-Detail>「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a (古鷹), Kako (加古), Aoba (青葉), Kinugasa (衣笠) y otros 2 barcos adicionales al Mundo 2-5 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Furutaka (古鷹), Kako (加古), Aoba (青葉), Kinugasa (衣笠) y otros 2 barcos adicionales al Mundo 2-5. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>264</ID>
     <JP-Name>「空母機動部隊」西へ！</JP-Name>
     <TR-Name>Sortie the Aircraft Carrier Task Force to the West</TR-Name>
     <JP-Detail>航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con 2 CV, 2 DD y 2 barcos adicionales al Mundo 4-2. y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una flota con 2 CV, 2 DD y 2 barcos adicionales al Mundo 4-2. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>265</ID>
@@ -782,49 +782,49 @@
     <JP-Name>「水上反撃部隊」突入せよ！</JP-Name>
     <TR-Name>Deploy the Counterattack Squadron</TR-Name>
     <JP-Detail>駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con un DD como flagship, 1 CA, 1 CL y 3 DDs adicionales al Mundo 2-5 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una flota con un DD como flagship, 1 CA, 1 CL y 3 DD adicionales al Mundo 2-5. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>267</ID>
     <JP-Name>「第十一駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 11th Destroyer Division</TR-Name>
     <JP-Detail>「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪), Murakumo(叢雲) y otros 2 barcos adicionales al Mundo 2-3 y logra una victoria en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪), Murakumo(叢雲) y otros 2 barcos adicionales al Mundo 2-3. Logra una victoria en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>268</ID>
     <JP-Name>「第十一駆逐隊」対潜哨戒！</JP-Name>
     <TR-Name>11th Destroyer Division's Anti-Submarine Patrol</TR-Name>
     <JP-Detail>「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) y a Murakumo(叢雲) al Mundo 1-5 y logra al menos un C-Rank en el nodo del boss.</TR-Detail>
+    <TR-Detail>Desplegar a Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) y a Murakumo(叢雲) al Mundo 1-5. Logra al menos un C-Rank en el nodo del boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>269</ID>
     <JP-Name>「第二一駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 21st Destroyer Division</TR-Name>
     <JP-Detail>「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) y a Hatsushimo (初霜) y otros 2 barcos adicionales al Mundo 3-1 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Hatsuharu (初春), Nenohi (子日), Wakaba (若葉), Hatsushimo (初霜) y otros 2 barcos adicionales al Mundo 3-1. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>270</ID>
     <JP-Name>「第二二駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 22nd Destroyer Division</TR-Name>
     <JP-Detail>「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月), 1 DD más y otros 2 barcos adicionales al Mundo 1-4 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月), 1 DD más y otros 2 barcos adicionales al Mundo 1-4. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>271</ID>
     <JP-Name>「那智戦隊」抜錨せよ！</JP-Name>
     <TR-Name>Desplegar al escuadrón Nachi !</TR-Name>
     <JP-Detail>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Nachi (那智) como Flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) y un barco adicional al Mundo 2-2 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Nachi (那智) como Flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) y un barco adicional al Mundo 2-2. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>272</ID>
     <JP-Name>「改装防空重巡」出撃せよ！</JP-Name>
     <TR-Name>Desplegar al remodelado crucero pesado anti-aéreo</TR-Name>
     <JP-Detail>摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Maya 摩耶) Kai o Kai2, 1 CL, 2 DD y 2 barcos adicionales al Mundo 2-3 y logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Maya (摩耶) Kai o Kai2, 1 CL, 2 DD y 2 barcos adicionales al Mundo 2-3. Logra una victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
@@ -908,14 +908,14 @@
     <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
     <TR-Name>Continuación de Operaciones Submarinas</TR-Name>
     <JP-Detail>第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
-    <TR-Detail>Complete la Expedición 30 2 veces más.</TR-Detail>
+    <TR-Detail>Complete la Expedición 30 dos veces más.</TR-Detail>
   </Quest>
   <Quest>
     <ID>409</ID>
     <JP-Name>潜水艦派遣による海外艦との接触作戦</JP-Name>
     <TR-Name>Reunión Estratégica con despacho  de submarino extranjero!!</TR-Name>
     <JP-Detail>有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！</JP-Detail>
-    <TR-Detail>Complete la Expedición 31 y recibe al destructor extranjero Z1!</TR-Detail>
+    <TR-Detail>¡Complete la Expedición 31 y recibe al destructor extranjero Z1!</TR-Detail>
   </Quest>
   <Quest>
     <ID>410</ID>
@@ -943,7 +943,7 @@
     <JP-Name>(続)航空火力艦の運用を強化せよ！</JP-Name>
     <TR-Name>Fortalecer el funcionamiento del BBV (Continuación.)</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！</JP-Detail>
-    <TR-Detail>Complete la Expedición 23, 4 veces.</TR-Detail>
+    <TR-Detail>Complete la Expedición 23 cuatro veces mas.</TR-Detail>
   </Quest>
   <Quest>
     <ID>414</ID>
@@ -957,7 +957,7 @@
     <JP-Name>遠洋潜水艦作戦の成果を拡大せよ！</JP-Name>
     <TR-Name>Blue Waters Extended Submarine Operation</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>Complete la Expedición 39, 2 veces más.</TR-Detail>
+    <TR-Detail>Complete la Expedición 39 dos veces más.</TR-Detail>
   </Quest>
   <Quest>
     <ID>416</ID>
@@ -1069,28 +1069,28 @@
     <JP-Name>「大型艦建造」の準備！(その弐)</JP-Name>
     <TR-Name>Preparation Para LSC (Parte 2)</TR-Name>
     <JP-Detail>大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！</JP-Detail>
-    <TR-Detail>Desecha 1 pieza de equipamiento 4 veces.</TR-Detail>
+    <TR-Detail>Desecha 1 pieza de equipamiento cuatro veces.</TR-Detail>
   </Quest>
   <Quest>
     <ID>611</ID>
     <JP-Name>式の準備！(その壱)</JP-Name>
     <TR-Name>En Preparacion para el Amor! (Parte 1)</TR-Name>
     <JP-Detail>式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！</JP-Detail>
-    <TR-Detail>desecha 1 pieza de equipamiento 2 veces para mostrar tu amor!.</TR-Detail>
+    <TR-Detail>¡Desecha 1 pieza de equipamiento dos veces para mostrar tu amor!.</TR-Detail>
   </Quest>
   <Quest>
     <ID>612</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
     <TR-Name>Prepare the Drum Canisters</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。</JP-Detail>
-    <TR-Detail>desecha una pieza de equipamiento 3 veces para adquirir un recipiente de viaje</TR-Detail>
+    <TR-Detail>Desecha una pieza de equipamiento tres veces para adquirir un recipiente de viaje</TR-Detail>
   </Quest>
   <Quest>
     <ID>613</ID>
     <JP-Name>資源の再利用</JP-Name>
     <TR-Name>Desmantelamiento Semanal</TR-Name>
     <JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
-    <TR-Detail>desecha equipamiento 24 veces.</TR-Detail>
+    <TR-Detail>Desecha equipamiento veinticuatro veces.</TR-Detail>
   </Quest>
   <Quest>
     <ID>614</ID>
@@ -1118,7 +1118,7 @@
     <JP-Name>「伊良湖」の準備</JP-Name>
     <TR-Name>Preparing for Irako</TR-Name>
     <JP-Detail>「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！</JP-Detail>
-    <TR-Detail>desecha equipamiento 10 veces.</TR-Detail>
+    <TR-Detail>Desecha equipamiento diez veces.</TR-Detail>
   </Quest>
   <Quest>
     <ID>618</ID>
