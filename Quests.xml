@@ -3,7 +3,7 @@
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
-    <TR-Name>Tu Primera Operación ! !</TR-Name>
+    <TR-Name>Tu Primera Operación !!</TR-Name>
     <JP-Detail>２隻以上の艦で構成される「艦隊」を編成せよ！</JP-Detail>
     <TR-Detail>Poseer 2 Barcos En Tu Flota Principal.</TR-Detail>
   </Quest>
@@ -934,14 +934,14 @@
   <Quest>
     <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
-    <TR-Name>Expedición Diaria #1</TR-Name>
+    <TR-Name>Expediciones Diarias #1</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
     <TR-Detail>Realizar 3 expediciones exitosas en el mismo día.</TR-Detail>
   </Quest>
   <Quest>
     <ID>403</ID>
     <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
-    <TR-Name>Expedición Diaria #2</TR-Name>
+    <TR-Name>Expediciones Diarias #2</TR-Name>
     <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
     <TR-Detail>Realizar 10 expediciones exitosas en el mismo día.</TR-Detail>
   </Quest>
@@ -983,14 +983,14 @@
   <Quest>
     <ID>410</ID>
     <JP-Name>南方への輸送作戦を成功させよ！</JP-Name>
-    <TR-Name>Expedición semanal #2</TR-Name>
+    <TR-Name>Expedición Semanal #2</TR-Name>
     <JP-Detail>激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！</JP-Detail>
     <TR-Detail>Completa la Expedición 37 o 38</TR-Detail>
   </Quest>
   <Quest>
     <ID>411</ID>
     <JP-Name>南方への鼠輸送を継続実施せよ！</JP-Name>
-    <TR-Name>Expedición semanal #3</TR-Name>
+    <TR-Name>Expedición Semanal #3</TR-Name>
     <JP-Detail>今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！</JP-Detail>
     <TR-Detail>Completa la Expedición 37 o 38 un total de 7 veces en una semana</TR-Detail>
   </Quest>
