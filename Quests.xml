@@ -845,14 +845,14 @@
     <JP-Name>海上突入部隊、進発せよ！</JP-Name>
     <TR-Name>Desplegar al ataque a la flota de superficie!</TR-Name>
     <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せ</JP-Detail>
-    <TR-Detail>Desplegar una flota con Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma al Mundo 5-1 y obtén una victoria S en nodo de jefe</TR-Detail>
+    <TR-Detail>Desplegar una flota con Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma al Mundo 5-1 y obtén una victoria S en el nodo del Boss</TR-Detail>
   </Quest>
   <Quest>
     <ID>277</ID>
     <JP-Name>「第六駆逐隊」対潜哨戒を徹底なのです！</JP-Name>
     <TR-Name>Complete Destroyer Division 6 Anti-Submarine Mission!</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
-    <TR-Detail>Desplegar una flota con Akatsuki kai2 como flagship, e Hibiki, Ikazuchi, Inazuma al Mundo 1-5 y obtén una victoria A o mejor en el nodo del jefe.</TR-Detail>
+    <TR-Detail>Desplegar una flota con Akatsuki kai2 como flagship, e Hibiki, Ikazuchi, Inazuma al Mundo 1-5 y obtén una victoria A o mejor en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
