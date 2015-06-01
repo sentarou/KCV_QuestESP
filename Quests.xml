@@ -248,7 +248,7 @@
   <Quest>
     <ID>136</ID>
     <JP-Name>「第三十駆逐隊(第二次)」を編成せよ！</JP-Name>
-    <TR-Name>Formar la flota 30th de destructores (Gen.2)</TR-Name>
+    <TR-Name>Formar la division 30th de destructores (Gen.2)</TR-Name>
     <JP-Detail>「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！</JP-Detail>
     <TR-Detail>Poseer UNICAMENTE a Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) y a Mochizuki (望月) en tu flota principal.</TR-Detail>
   </Quest>
@@ -257,7 +257,7 @@
     <JP-Name>「第五戦隊」を編成せよ！</JP-Name>
     <TR-Name>Form the 5th Fleet</TR-Name>
     <JP-Detail>「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Poseer a Myoukou (妙高), Nachi (那智) and Haguro (羽黒) en tu flota principal.</TR-Detail>
+    <TR-Detail>Poseer a Myoukou (妙高), Nachi (那智) y Haguro (羽黒) en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
     <ID>138</ID>
@@ -299,7 +299,7 @@
     <JP-Name>「新型正規空母」を配備せよ！</JP-Name>
     <TR-Name>Desplegar la nueva Standard Aircraft Carrier</TR-Name>
     <JP-Detail>雲龍型航空母艦一番艦「雲龍」を第一艦隊機旗艦に配備せよ！</JP-Detail>
-    <TR-Detail>Poseer a Unryuu (雲龍) como Flagship  en tu flota principal</TR-Detail>
+    <TR-Detail>Poseer a Unryuu (雲龍) como Flagship en tu flota principal</TR-Detail>
   </Quest>
   <Quest>
     <ID>144</ID>
@@ -710,9 +710,9 @@
   <Quest>
     <ID>254</ID>
     <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
-    <TR-Name>Deploy a Light Carrier Squadron</TR-Name>
+    <TR-Name>Desplegar un escuadrón de porta-aviones ligeros</TR-Name>
     <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota con 1 o 2 CVL, 1 CL y 3 o 4 Destructores al Mundo 2-1. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar una Flota con 1 o 2 CVL, 1 CL y 3 o 4 Destructores al Mundo 2-1. Logra una Victoria Rango-S en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>255</ID>
@@ -724,14 +724,14 @@
   <Quest>
     <ID>256</ID>
     <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
-    <TR-Name>Deploy a Submarine Fleet to World 6-1</TR-Name>
+    <TR-Name>Misión Mensual #3</TR-Name>
     <JP-Detail>潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！</JP-Detail>
-    <TR-Detail>Desplegar una Flota al Mundo 6-1 y Logra una Victoria S-Rank en el nodo del Boss 3 veces.</TR-Detail>
+    <TR-Detail>Desplegar una Flota al Mundo 6-1 y Lograr una Victoria Rango-S en el nodo del Boss 3 veces.</TR-Detail>
   </Quest>
   <Quest>
     <ID>257</ID>
     <JP-Name>「水雷戦隊」南西へ！</JP-Name>
-    <TR-Name>Deploy a Torpedo Squadron</TR-Name>
+    <TR-Name>Desplegar un escuadrón de torpederos</TR-Name>
     <JP-Detail>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Desplegar una Flota con 3 CL (uno de ellos como Flagship) y 4-5 destructores al Mundo 1-4. Logra una Victoria S-Rank en el nodo del Boss.</TR-Detail>
   </Quest>
@@ -894,7 +894,7 @@
     <JP-Name>演習を強化、艦隊の練度向上に努めよ！</JP-Name>
     <TR-Name>Strengthen the practice battles, increase the fleet's experience!</TR-Name>
     <JP-Detail>艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>Get 4 victories in practice mode within the same day.</TR-Detail>
+    <TR-Detail>Obtener 4 victorias en la Practica PVP en un mismo día .</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
@@ -1007,21 +1007,21 @@
     <JP-Name>囮機動部隊支援作戦を実施せよ！</JP-Name>
     <TR-Name>Desplegar la Decoy Task Force</TR-Name>
     <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
-    <TR-Detail>Completa la Expedición  15 (囮機動部隊支援作戦).</TR-Detail>
+    <TR-Detail>Completa la Expedición 15 (囮機動部隊支援作戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>418</ID>
     <JP-Name>観艦式予行を実施せよ！</JP-Name>
     <TR-Name>Implement the Naval Review rehearsal!</TR-Name>
     <JP-Detail>観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 7 twice.</TR-Detail>
+    <TR-Detail>Completa la Expedición 7 veces.</TR-Detail>
   </Quest>
   <Quest>
     <ID>419</ID>
     <JP-Name>観艦式を敢行せよ！</JP-Name>
     <TR-Name>Do the Naval Review!</TR-Name>
     <JP-Detail>練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 8 once.</TR-Detail>
+    <TR-Detail>Completa la Expedición 8 una vez.</TR-Detail>
   </Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
@@ -1146,14 +1146,14 @@
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion (to Tenzan)</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 97 Torpedo Bomber (Tomonaga Squadron) as your secretary, scrap 2 Tenzans (simultaneously) to upgrade the Type 97 to Tenzan Model 12 (Tomonaga Squadron). The Type 97 must not be locked or you'll lose the Tenzans.</TR-Detail>
+    <TR-Detail>Tener a un CV equipado con un Type 97 Torpedo Bomber (Tomonaga Squadron) como secretaria, desmantelar (simultáneamente) 2 Tenzan para actualizar el Type 97 a Tenzan Modelo 12 (Tomonaga Squadron). El Type 97 no debe estar bloqueado o perderás los Tenzans.</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion (to Suisei)</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Ekusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Ekusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
+    <TR-Detail>Tener a un CV equipado con un Type 99 Dive Bomber (Ekusa Squadron) como secretaria, desmantelar (simultáneamente) 2 Suisei para actualizar el Type 99 a Suisei (Ekusa Squadron). El Type 99 no debe estar bloqueado o perderás los Suiseis.</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
