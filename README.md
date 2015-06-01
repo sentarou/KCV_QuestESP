@@ -1,25 +1,29 @@
 # Traducción De Las Quest De KanColleViewer al Español
-Estas son las quest oficiales del juego **Kantai Collection** , la cuales están traducidas parcialmente al español para un mayor entendimiento para los que no manejan moderadamente el idioma. Las mismas se basan en la traducción inglesa
+Estas son las quest oficiales del juego **Kantai Collection** para facilitar la comprensión de cada una de las misiones, actualmente se encuentran parcialmente traducidas al español, con esto hacemos referencia a que ciertos conceptos básicos se mantenido en inglés, tales como “Boss, Flagship,Battleship etc”. Las mismas se encuentran revisadas y corregida por la propia comunidad latina de jugadores.
 ## Requerimientos
 Es necesario disponer de cualquier version del Kancolle Viewer y seguir los siguientes pasos:
 
 ► Editar el archivo **KanColleViewer.exe.config** (usando un editor de texto plano de preferecia)
 
-► ubicar  ``
+► Ubicar  ``
 <setting name="KCVUpdateTransUrl" serializeAs="String">
 ``
 
-► sustituir lo que se encuentra entre las etiqueas <value> por la siguiente url: https://raw.githubusercontent.com/sentarou/KCV_QuestESP/master/Version.xml
+► Sustituir la URL que se encuentra entre las etiquetas ``
+<value>
+`` por la siguiente url: https://raw.githubusercontent.com/sentarou/KCV_QuestESP/master/Version.xml
 
 ► Finalmente deberia quedar de la siguiente forma:
 ![Image de sentarou](http://i.imgur.com/uLiJt5R.jpg)
 
-► Guardar y ejecutar el KCV
+► Guardar y ejecutar el KCV.
 
 **NOTAS**: 
-Este procedimiento se debe repetir cada vez que descarguen una version nueva de KCV 
+Este procedimiento se debe repetir cada vez que descarguen una version nueva del KCV 
 
 #### Colaboradores Principales:
 * @12braian
 * @moonkamek
 * @Nortwenko 
+
+Pueden encontrar mas informacion en el grupo de Facebook: ► [Kantai Collection Latino!](https://www.facebook.com/groups/936266513058749/)
