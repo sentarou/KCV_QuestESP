@@ -1,5 +1,9 @@
 # Traducción De Las Quest De KanColleViewer al Español
 Estas son las quest oficiales del juego **Kantai Collection** para facilitar la comprensión de cada una de las misiones, actualmente se encuentran parcialmente traducidas al español, con esto hacemos referencia a que ciertos conceptos básicos se mantenido en inglés, tales como “Boss, Flagship,Battleship etc”. Las mismas se encuentran revisadas y corregida por la propia comunidad latina de jugadores.
+
+**Vista Previa**
+
+![vista previa](http://i.imgur.com/wUh7EGx.jpg)
 ## Requerimientos
 Es necesario disponer de cualquier version del Kancolle Viewer y seguir los siguientes pasos:
 
