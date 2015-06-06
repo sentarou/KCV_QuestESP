@@ -997,14 +997,14 @@
   <Quest>
     <ID>412</ID>
     <JP-Name>航空火力艦の運用を強化せよ！</JP-Name>
-    <TR-Name>Fortalecer el funcionamiento del BBV</TR-Name>
+    <TR-Name>Fortalecer el funcionamiento de los BBV</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！</JP-Detail>
     <TR-Detail>Completa la Expedición 23.</TR-Detail>
   </Quest>
   <Quest>
     <ID>413</ID>
     <JP-Name>(続)航空火力艦の運用を強化せよ！</JP-Name>
-    <TR-Name>Fortalecer el funcionamiento del BBV (Continuación.)</TR-Name>
+    <TR-Name>Fortalecer el funcionamiento de los BBV (Continuación.)</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！</JP-Detail>
     <TR-Detail>Completa la Expedición 23 cuatro veces mas.</TR-Detail>
   </Quest>
