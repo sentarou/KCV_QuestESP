@@ -682,9 +682,9 @@
   <Quest>
     <ID>249</ID>
     <JP-Name>「第五戦隊」出撃せよ！</JP-Name>
-    <TR-Name>Deploy the 5th Fleet</TR-Name>
+    <TR-Name>Desplegar la 5ª Flota!</TR-Name>
     <JP-Detail>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Desplegar a (妙高), Nachi (那智) and Haguro (羽黒) al Mundo 2-5. Puedes añadir otros 3 Barcos. Logra una Victoria Rango-S en el nodo del Boss.</TR-Detail>
+    <TR-Detail>Desplegar a (妙高), Nachi (那智) y Haguro (羽黒) al Mundo 2-5. Puedes añadir otros 3 Barcos. Logra una Victoria Rango-S en el nodo del Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>250</ID>
