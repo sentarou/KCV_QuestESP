@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Versions hola_ext_inject="disabled">
+<Versions>
   <Item>
     <Name>App</Name>
     <Version>3.8.2.556</Version>
@@ -22,8 +22,8 @@
   </Item>
   <Item>
     <Name>Quests</Name>
-    <Version>1.20.4ES</Version>
-    <URL>https://github.com/sentarou/KCV_QuestESP/releases/download/1.21.1ES/Quests.xml</URL>
+    <Version>1.21.1ES</Version>
+    <URL>https://raw.githubusercontent.com/sentarou/KCV_QuestESP/master/Quests.xml</URL>
   </Item>
   <Item>
     <Name>Ships</Name>
